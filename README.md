@@ -3,7 +3,7 @@
 This is a fully responsive, modern developer portfolio built using the **MERN Stack** and deployed on **Render**. It showcases skills, projects, and allows users to leave testimonials.
 
 ### 🌐 Live Demo
-👉 [Visit Portfolio](https://portfolio-frontend-jwq5.onrender.com)
+👉 [Visit Portfolio](*your deploed link*)
 
 ---
 
