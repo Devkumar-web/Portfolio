@@ -1,5 +1,6 @@
 import React from 'react'
 import { FaFacebook, FaTwitter, FaLinkedin, FaInstagram, FaYoutube } from "react-icons/fa";
+import { FaHashnode } from "react-icons/fa6";
 
 export const Footer = () => {
   // Smooth scroll function
@@ -37,7 +38,7 @@ export const Footer = () => {
         {/* Social Media Icons - Responsive */}
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
-            { icon: <FaFacebook />, link: "" },
+            { icon: <FaHashnode />, link: "https://hashnode.com/@Devishere" },
             { icon: <FaTwitter />, link: "https://x.com/DevKuma89723731" },
             { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/here-is-dev007/" },
             { icon: <FaInstagram />, link: "https://www.instagram.com/x_ceps_/" },

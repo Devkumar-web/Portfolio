@@ -1,7 +1,8 @@
 import React, { useEffect } from 'react'
 import { useState } from 'react';
 import { FiMenu, FiX } from "react-icons/fi";
-import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaInstagram ,} from "react-icons/fa";
+import { FaHashnode } from "react-icons/fa6";
 
 
 export const Navbar = () => {
@@ -111,6 +112,15 @@ export const Navbar = () => {
             className='text-gray hover:text-black'
           >
             <FaInstagram size={24} />
+          </a>
+
+          <a
+            href="https://hashnode.com/@Devishere"
+            target='_blank'
+            rel='noopener noreferrer'
+            className='text-gray hover:text-black'
+          >
+            <FaHashnode size={24} />
           </a>
 
         </div>

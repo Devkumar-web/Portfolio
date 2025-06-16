@@ -48,7 +48,7 @@ export const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-[#34495e] mb-10 mt-8 leading-relaxed font-semibold">
-           Aspiring Web Developer passionate about crafting robust and user-centric web solutions. Leveraging a strong understanding of Data Structures & Algorithms (DSA) and proficiency in modern web development frameworks to solve complex problems and deliver high-quality code. Committed to continuous learning and contributing to impactful software development.
+           Aspiring Web Developer passionate about crafting robust and user-centric web solutions. Leveraging a strong understanding of Data Structures & Algorithms (DSA) and proficiency in modern web development frameworks to solve complex problems and deliver high-quality code.
           </p>
           {/* Resume Button */}
           <a
