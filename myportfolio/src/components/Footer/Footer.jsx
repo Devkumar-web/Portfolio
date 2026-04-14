@@ -1,5 +1,6 @@
 import React from 'react'
 import { FaFacebook, FaTwitter, FaLinkedin, FaInstagram, FaYoutube } from "react-icons/fa";
+import { SiLeetcode } from "react-icons/si";
 import { FaHashnode } from "react-icons/fa6";
 
 export const Footer = () => {
@@ -42,6 +43,7 @@ export const Footer = () => {
             { icon: <FaTwitter />, link: "https://x.com/DevKuma89723731" },
             { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/here-is-dev007/" },
             { icon: <FaInstagram />, link: "https://www.instagram.com/x_ceps_/" },
+            { icon: <SiLeetcode />, link: "https://leetcode.com/u/devnoobishere/" },
             
           ].map((item, index) => (
             <a
