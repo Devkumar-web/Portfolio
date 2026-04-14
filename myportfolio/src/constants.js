@@ -133,7 +133,7 @@ export const education = [
     img: gate,
     school: "AIR-1603 TOP-0.76%",
     date: "8 March ",
-    grade: "670/1000",
+    grade: "SCORE: 670/1000",
     degree: "GRADUATE APTITUDE TEST IN ENGINEERING 2026",
   } ,
   {
@@ -141,7 +141,7 @@ export const education = [
     img: bbdit,
     school: "BBDIT, Ghaziabad",
     date: "Sept 2022 - Aug 2026",
-    grade: "8 CGPA",
+    grade: "GRADE: 8 CGPA",
     degree: "Bachelor of Technology - B.Tech (Computer Science)",
   },
   {
@@ -149,7 +149,7 @@ export const education = [
     img: pms,
     school: "Priyanka Modern School",
     date: "Apr 2020 - March 2022",
-    grade: "76%",
+    grade: "GRADE: 76%",
     degree: "CBSE(XII) - PCM with Information Technology",
   },
   {
@@ -158,6 +158,7 @@ export const education = [
     school: "Priyanka Modern School",
     date: "Apr 2018 - March 2020",
     grade: "90%",
+    grade: "GRADE: 90%",
     degree: "CBSE(X), Science with Computer Application",
   }
   
