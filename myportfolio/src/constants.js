@@ -132,7 +132,7 @@ export const education = [
     img: bbdit,
     school: "BBDIT, Ghaziabad",
     date: "Sept 2022 - Aug 2026",
-    grade: "8.7 CGPA",
+    grade: "8 CGPA",
     degree: "Bachelor of Technology - B.Tech (Computer Science)",
   },
   {
