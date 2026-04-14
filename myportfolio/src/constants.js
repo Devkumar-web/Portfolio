@@ -41,6 +41,7 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 // Education Section Logo's
 import bbdit from './assets/education_logo/bbdit.jpg';
 import pms from './assets/education_logo/pms.png';
+import gate from './assets/education_logo/gate.jpg';
 // import vpsLogo from './assets/education_logo/vps_logo.png';
 
 // Project Section Logo's
@@ -151,6 +152,14 @@ export const education = [
     grade: "90%",
     degree: "CBSE(X), Science with Computer Application",
   },
+  {
+    id: 4,
+    img: gate,
+    school: "AIR-1603 TOP-0.76%",
+    date: "8 March ",
+    grade: "670/1000",
+    degree: "GRADUATE APTITUDE TEST IN ENGINEERING 2026",
+  }
 ];
 
 export const projects = [
