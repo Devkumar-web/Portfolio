@@ -52,7 +52,7 @@ export const Education = () => {
                     <p className="text-sm text-gray-400 mt-1">{edu.date}</p>
                   </div>
                 </div>
-                <p className="mt-4 text-gray-500 font-semibold">Grade: {edu.grade}</p>
+                <p className="mt-4 text-gray-500 font-semibold">{edu.grade}</p>
               </div>
             </div>
           );
