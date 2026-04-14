@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { useState } from 'react';
 import { FiMenu, FiX } from "react-icons/fi";
-import { FaLinkedin, FaGithub, FaInstagram ,FaUserCode} from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaInstagram , FaCode} from "react-icons/fa";
 import { FaHashnode } from "react-icons/fa6";
 
 
@@ -128,7 +128,7 @@ export const Navbar = () => {
             rel='noopener noreferrer'
             className='text-gray hover:text-black'
           >
-            <FaUserCode size={24} />
+            <FaCode size={24} />
           </a>
 
         </div>
@@ -194,7 +194,7 @@ export const Navbar = () => {
                 rel="noopener noreferrer"
                 className="text-gray-700 hover:text-black"
               >
-                <FaUserCode size={24} />
+                <FaCode size={24} />
               </a>
             </div>
           </ul>
