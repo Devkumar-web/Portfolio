@@ -204,4 +204,14 @@ export const projects = [
         github: "https://github.com/Devkumar-web/Custom-Chess-Game",
           webapp: "https://github.com/Devkumar-web/Custom-Chess-Game",
     },
+  {
+  id: 3,
+    title: "Custom Chess Game",
+      description:
+  "Custom-Chess-Game is an interactive chess game designed to be played in a web browser. It is built using Node.js for the backend and EJS for templating. The project provides a clean and responsive UI with customizable chess game features. It Support Multiplayer with real time updates",
+    image: chess,
+      tags: ["HTML", "CSS", "JavaScript","Node.js","Socket","Chess.Js"],
+        github: "https://github.com/Devkumar-web/Custom-Chess-Game",
+          webapp: "https://github.com/Devkumar-web/Custom-Chess-Game",
+    },
   ];  
