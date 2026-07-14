@@ -42,6 +42,7 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 import bbdit from './assets/education_logo/bbdit.jpg';
 import pms from './assets/education_logo/pms.png';
 import gate from './assets/education_logo/gate.jpg';
+import iiitb from './assets/education_logo/iiitb.png';
 // import vpsLogo from './assets/education_logo/vps_logo.png';
 
 // Project Section Logo's
@@ -130,6 +131,14 @@ export const SkillsInfo = [
 export const education = [
   {
     id: 1,
+    img: iiitb,
+    school: "International Institute of Information Technology Bangalore (IIIT-B)",
+    date: "July 2026 - July 2028",
+    grade: "Ongoing",
+    degree: "Master of Technology - M.Tech (Computer Science)",
+  } ,
+  {
+    id: 2,
     img: gate,
     school: "AIR-1603 TOP-0.76%",
     date: "8 March ",
@@ -137,7 +146,7 @@ export const education = [
     degree: "GRADUATE APTITUDE TEST IN ENGINEERING 2026",
   } ,
   {
-    id: 2,
+    id: 3,
     img: bbdit,
     school: "BBDIT, Ghaziabad",
     date: "Sept 2022 - Aug 2026",
@@ -145,7 +154,7 @@ export const education = [
     degree: "Bachelor of Technology - B.Tech (Computer Science)",
   },
   {
-    id: 3,
+    id: 4,
     img: pms,
     school: "Priyanka Modern School",
     date: "Apr 2020 - March 2022",
@@ -153,7 +162,7 @@ export const education = [
     degree: "CBSE(XII) - PCM with Information Technology",
   },
   {
-    id: 4,
+    id: 5,
     img: pms,
     school: "Priyanka Modern School",
     date: "Apr 2018 - March 2020",
