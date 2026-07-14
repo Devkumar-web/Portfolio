@@ -49,6 +49,7 @@ import iiitb from './assets/education_logo/iiitb.jpg';
 import portfolio from './assets/work_logo/portfolio.png';
 import prepwise from './assets/work_logo/prep-wise.png';
 import chess from './assets/work_logo/chess.png';
+import chat from './assets/work_logo/chat.png';
 
 
 
@@ -206,12 +207,12 @@ export const projects = [
     },
   {
   id: 3,
-    title: "Custom Chess Game",
+    title: "PieChat",
       description:
-  "Custom-Chess-Game is an interactive chess game designed to be played in a web browser. It is built using Node.js for the backend and EJS for templating. The project provides a clean and responsive UI with customizable chess game features. It Support Multiplayer with real time updates",
-    image: chess,
-      tags: ["HTML", "CSS", "JavaScript","Node.js","Socket","Chess.Js"],
-        github: "https://github.com/Devkumar-web/Custom-Chess-Game",
-          webapp: "https://github.com/Devkumar-web/Custom-Chess-Game",
+  "Developed a real-time community chat application using Next.js and React, integrating Stream Chat to enable scalable messaging, channel management, and live communication.",
+    image: chat,
+      tags: ["Next.js", "JavaScript","Node.js","Clerk","Stream Chat"],
+        github: "https://github.com/Devkumar-web/pie-chat",
+          webapp: "https://github.com/Devkumar-web/pie-chat",
     },
   ];  
