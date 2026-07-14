@@ -42,7 +42,7 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 import bbdit from './assets/education_logo/bbdit.jpg';
 import pms from './assets/education_logo/pms.png';
 import gate from './assets/education_logo/gate.jpg';
-import iiitb from './assets/education_logo/iiitb.png';
+import iiitb from './assets/education_logo/iiitb.jpg';
 // import vpsLogo from './assets/education_logo/vps_logo.png';
 
 // Project Section Logo's
